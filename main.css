@@ -1,0 +1,45 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: sans-serif;
+}
+
+header{
+  background-color: teal;
+}
+
+body{
+  background-color: black;
+}
+
+p {
+  padding-bottom: 2%;
+  padding-left: 5%;
+  color: white;
+}
+
+h1 {
+  padding-top: 1.5%;
+  padding-bottom: 2%;
+  text-align: center;
+  color: white;
+}
+
+h2 {
+  padding-top: 5%;
+  padding-bottom: 2%;
+  padding-left: 5%;
+  color: white;
+}
+
+button{
+  margin-left: 5%;
+  padding: 1%;
+  color: black;
+}
+
+#fill{
+  font-weight: bold;
+  padding-top: 2%;
+}
