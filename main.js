@@ -1,4 +1,4 @@
-var myList = [
+const myList = [
 "Hey" ,
 "Bonjour" ,
 "Hola" ,
@@ -11,7 +11,7 @@ var myList = [
 "Hey party people"
 ]
 
-var randomItem = myList[Math.floor(Math.random()*myList.length)];
+let randomItem = myList[Math.floor(Math.random()*myList.length)];
 
 document.getElementById('mybutton').addEventListener('click', ()=>{
             console.log('random');
